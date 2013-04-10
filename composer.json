@@ -1,0 +1,15 @@
+{
+    "name": "d1rk/lithium_app",
+    "description": "lithium app that uses composer to fetch dependencies",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "d1rk",
+            "email": "d1rk@gmx.de"
+        }
+    ],
+    "require": {
+        "UnionOfRAD/lithium": "0.11"
+    },
+    "minimum-stability": "dev"
+}
